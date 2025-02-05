@@ -5,7 +5,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 
 <!--START_SECTION:badges-->
-![Visitor](https://visitor-badge.laobi.icu/badge?page_idjk=Neerajjv.Neerajjv)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Neerajjv.Neerajjv)
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
