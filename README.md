@@ -27,7 +27,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 ## 📜 Courses & Certifications
 <!--START_SECTION:badges-->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="49348404-167b-4ec2-ac75-91b4f6d56585" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <!--END_SECTION:badges-->
 - **Acquiring Data** - Accenture via Nasscom
 - **Python for Data Science** - NPTEL
