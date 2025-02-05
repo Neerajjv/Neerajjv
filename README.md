@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a third-year **Artificial Intelligence and Data Science** student at **Panimalar Engineering College**. Passionate about **AI, ML, DL**, and emerging technologies, I am eager to learn, innovate, and contribute to cutting-edge projects. Currently looking for opportunities to apply my skills and grow as a developer.
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
 <!--START_SECTION:badges-->
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Neerajjv.Neerajjv)
 
@@ -11,7 +11,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
-
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 - **Programming Languages:** Python,Java
 - **Machine Learning & Deep Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Data Analysis & Generative AI (LangChain)**
