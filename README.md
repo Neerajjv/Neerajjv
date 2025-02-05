@@ -26,6 +26,8 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 - **Communication & Problem-Solving**
 
 ## 📜 Courses & Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 - **Acquiring Data** - Accenture via Nasscom
 - **Python for Data Science** - NPTEL
 - **Google Data Analytics** - Coursera
