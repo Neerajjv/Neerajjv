@@ -11,9 +11,6 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
-<p align="left">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js" height="150">
-</p>
 
 - **Programming Languages:** Python,Java
 - **Machine Learning & Deep Learning Frameworks:** TensorFlow, Keras, PyTorch
@@ -44,6 +41,9 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 - **Google Data Analytics** - Coursera
 - **Google Cybersecurity** - Coursera
 
+<p align="left">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js" height="150">
+</p>
 
 
 
