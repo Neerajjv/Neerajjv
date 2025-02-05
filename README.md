@@ -6,6 +6,8 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 <!--START_SECTION:badges-->
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Neerajjv.Neerajjv)
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajjv&hide_progress=true)
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
@@ -38,8 +40,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 - **Google Data Analytics** - Coursera
 - **Google Cybersecurity** - Coursera
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajjv&hide_progress=true)
+
 
 
 ## 🔗 Connect With Me
