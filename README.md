@@ -11,7 +11,9 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
-- **Programming Languages:** Python, C, C++
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js)](https://github.com/Jurredr/github-widgetbox)
+
+- **Programming Languages:** Python,Java
 - **Machine Learning & Deep Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Data Analysis & Generative AI (LangChain)**
 - **Web Development:** HTML, CSS, JavaScript
