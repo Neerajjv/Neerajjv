@@ -33,7 +33,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajjv&hide_progress=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neerajjv&show_icons=true&theme=radical)
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://in.linkedin.com/in/neeraj-j-v-635ab1278)  
