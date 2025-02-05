@@ -5,10 +5,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 
 <!--START_SECTION:badges-->
-![google-ai-essentials (1)](https://github.com/user-attachments/assets/ace1da5b-8c40-446f-837a-f09fbea5998c)
-![machine-learning-for-data-science-projects 1](https://github.com/user-attachments/assets/abb657d1-5af2-42bd-8cf6-af0837e95e9c)
-![generative-ai-in-action](https://github.com/user-attachments/assets/9e5cd6e2-5005-49c6-9129-3656ca6c5344)
-![s](https://github.com/user-attachments/assets/2e83ceb3-7537-4378-9e92-2272d8de7063)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
