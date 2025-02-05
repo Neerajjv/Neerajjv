@@ -11,7 +11,10 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 <!--END_SECTION:badges-->
 
 ## 🔧 Skills
-<img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js" width="1000" height="150">
+<p align="left">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js">
+</p>
+
 
 
 - **Programming Languages:** Python,Java
