@@ -27,6 +27,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 ## 📜 Courses & Certifications
 <!--START_SECTION:badges-->
+![google-ai-essentials](https://github.com/user-attachments/assets/e27357dc-78b8-420d-8b7e-7e5b81170eee)
 
 <!--END_SECTION:badges-->
 - **Acquiring Data** - Accenture via Nasscom
