@@ -12,7 +12,7 @@ I am a third-year **Artificial Intelligence and Data Science** student at **Pani
 
 ## 🔧 Skills
 <p align="left">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js",height="150">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,html,css,js",height="75">
 </p>
 
 
